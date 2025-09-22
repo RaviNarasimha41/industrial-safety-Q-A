@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+PyPDF2
+tqdm
+
+
+
