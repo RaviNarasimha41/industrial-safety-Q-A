@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-Perfect! I can generate a **fully polished, submission-ready `README.md`** with:
 
-* Neat section structure
-* Markdown tables for evaluation results
-* Code blocks for setup, API requests, and responses
-* Placeholders for your 8 questions’ baseline/hybrid answers
-* Optional sample image section for “proof of work”
-* Clear instructions for frontend and backend
-
-Here’s a ready-to-paste version:
-
----
-
-````markdown
-=======
-
->>>>>>> 013c3f854e8cb0989405ecb53808b4d552ab8eb3
 # Industrial Safety Q&A — Mini RAG Project
 
 ## 1. Project Overview
@@ -238,13 +221,7 @@ The system was evaluated using the following 8 curated questions:
 * System is **CPU-only**, no paid APIs.
 * Set a random seed in embeddings/indexing for reproducibility.
 * Fill the evaluation table placeholders after running API.
-
-```
-<<<<<<< HEAD
-
----
-
-I can also generate the **`results.md`** file with the same 8 questions and placeholders, so you don’t have to maintain two separate files manually.  
+ 
 
 Do you want me to do that next?
 ```
