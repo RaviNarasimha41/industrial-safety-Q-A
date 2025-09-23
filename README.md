@@ -164,21 +164,7 @@ The system was evaluated using the following 8 curated questions:
 
 ---
 
-## 7. Learnings
-
-* **Reranker improves answer relevance:** blending vector similarity and keyword relevance helps prioritize the most grounded evidence.
-* **Abstain logic is crucial:** prevents returning low-confidence answers, maintaining system trustworthiness.
-<<<<<<< HEAD
-* **Mini RAG is lightweight but effective:** a small corpus and CPU-only setup is sufficient for domain-specific Q\&A.
-=======
-* **Mini RAG is lightweight but effective:** a small corpus and CPU-only setup is sufficient for domain-specific Q&A.
->>>>>>> 013c3f854e8cb0989405ecb53808b4d552ab8eb3
-* **Frontend evaluation table:** allows quick comparison between baseline and hybrid answers with direct source links.
-
----
-
-
-## 8. Proof of Work (Optional Images)
+## 7. Proof of Work 
 
 ## Project Screenshot
 
@@ -186,6 +172,17 @@ The system was evaluated using the following 8 curated questions:
 ![Another screenshot](screenshots/Screenshot2.png)
 
 
+---
+
+
+## 8.Learnings
+
+* **Reranker improves answer relevance:** blending vector similarity and keyword relevance helps prioritize the most grounded evidence.
+* **Abstain logic is crucial:** prevents returning low-confidence answers, maintaining system trustworthiness.
+
+* **Mini RAG is lightweight but effective:** a small corpus and CPU-only setup is sufficient for domain-specific Q\&A.
+* **Mini RAG is lightweight but effective:** a small corpus and CPU-only setup is sufficient for domain-specific Q&A.
+* **Frontend evaluation table:** allows quick comparison between baseline and hybrid answers with direct source links.
 ---
 
 ## 9. Files in Repository
