@@ -130,16 +130,18 @@ The system was evaluated using the following 8 curated questions:
 
 ## 5. Evaluation Results (Baseline vs Hybrid)
 
-| Question                                     | Baseline Answer          | Hybrid Answer          | Hybrid Reranker | Abstained |
+| Question                                     | Baseline Answer          |          | Hybrid Reranker | Abstained |Contexts|
 | -------------------------------------------- | ------------------------ | ---------------------- | --------------- | --------- |
-| What is PPE in industrial safety?            | of functional safety (although it is still an instance of safety and could protect against exactly the same hazard).” As another example, compare hard guarding to an interlocked guard. | PLACEHOLDER\_HYBRID\_1 | hybrid          | No        |
-| Explain the purpose of a fire extinguisher.  | PLACEHOLDER\_BASELINE\_2 | PLACEHOLDER\_HYBRID\_2 | hybrid          | No        |
-| What is a lockout-tagout procedure?          | PLACEHOLDER\_BASELINE\_3 | PLACEHOLDER\_HYBRID\_3 | hybrid          | No        |
-| Define occupational hazard.                  | PLACEHOLDER\_BASELINE\_4 | PLACEHOLDER\_HYBRID\_4 | hybrid          | No        |
-| What should be done during a chemical spill? | PLACEHOLDER\_BASELINE\_5 | PLACEHOLDER\_HYBRID\_5 | hybrid          | No        |
-| What is the safe limit for noise exposure?   | PLACEHOLDER\_BASELINE\_6 | PLACEHOLDER\_HYBRID\_6 | hybrid          | No        |
-| Explain the use of safety harness.           | PLACEHOLDER\_BASELINE\_7 | PLACEHOLDER\_HYBRID\_7 | hybrid          | No        |
-| Why are MSDS sheets important?               | PLACEHOLDER\_BASELINE\_8 | PLACEHOLDER\_HYBRID\_8 | hybrid          | No        |
+| What is PPE in industrial safety?            | of functional safety (although it is still an instance of safety and could protect against exactly the same hazard).” As another example, compare hard guarding to an interlocked guard. | Fire Machinery or related products shall be designed and constructed in such a way as to avoid any risk of fire or overheating presented by the machinery or related product itself or by gases, liquids, dust, vapours or other substances produced or used by the machinery or related product.| hybrid          | No        |-	
+IFA — SISTEMA: Getting started (Information of IFA) | Score: 1.00
+IFA — SISTEMA: Getting started (Information of IFA) | Score: 0.95
+| Explain the purpose of a fire extinguisher.  | Fire Machinery or related products shall be designed and constructed in such a way as to avoid any risk of fire or overheating presented by the machinery or related product itself or by gases, liquids, dust, vapours or other substances produced or used by the machinery or related product.  | hybrid          | No        |
+| What is a lockout-tagout procedure?          | This technique is specified inthe American National Standards (ANSI B65.1and ANSI B65.2) for web- and sheet-fed printingpresses and binding and finishing equipment,respectively. |  | hybrid          | No        |
+| Define occupational hazard.                  | of functional safety (although it is still an instance of safety and could protect against exactly the same hazard).” As another example, compare hard guarding to an interlocked guard|  | hybrid          | No        |
+| What should be done during a chemical spill? | Fire Machinery or related products shall be designed and constructed in such a way as to avoid any risk of fire or overheating presented by the machinery or related product itself or by gases, liquids, dust, vapours or other substances produced or used by the machinery or related product.|  | hybrid          | No        |
+| What is the safe limit for noise exposure?   | Occupational Safety and Health Administration In the United States, one of the main drivers of industrial safety is the Occupational Safety and Health Administration (OSHA). |  | hybrid          | No        |
+| Explain the use of safety harness.           | This technique is specified inthe American National Standards (ANSI B65.1and ANSI B65.2) for web- and sheet-fed printingpresses and binding and finishing equipment,respectively.| | hybrid          | No        |
+| Why are MSDS sheets important?               |B Type Standards , these are laterally interlinked and are generally divided into B1 and B2 standards. |  | hybrid          | No        |
 
 
 ## 6. Example API Response
