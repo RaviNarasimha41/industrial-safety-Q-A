@@ -132,7 +132,7 @@ The system was evaluated using the following 8 curated questions:
 
 | Question                                     | Baseline Answer          | Hybrid Answer          | Hybrid Reranker | Abstained |
 | -------------------------------------------- | ------------------------ | ---------------------- | --------------- | --------- |
-| What is PPE in industrial safety?            | PLACEHOLDER\_BASELINE\_1 | PLACEHOLDER\_HYBRID\_1 | hybrid          | No        |
+| What is PPE in industrial safety?            | of functional safety (although it is still an instance of safety and could protect against exactly the same hazard).” As another example, compare hard guarding to an interlocked guard. | PLACEHOLDER\_HYBRID\_1 | hybrid          | No        |
 | Explain the purpose of a fire extinguisher.  | PLACEHOLDER\_BASELINE\_2 | PLACEHOLDER\_HYBRID\_2 | hybrid          | No        |
 | What is a lockout-tagout procedure?          | PLACEHOLDER\_BASELINE\_3 | PLACEHOLDER\_HYBRID\_3 | hybrid          | No        |
 | Define occupational hazard.                  | PLACEHOLDER\_BASELINE\_4 | PLACEHOLDER\_HYBRID\_4 | hybrid          | No        |
