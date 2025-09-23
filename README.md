@@ -141,13 +141,6 @@ The system was evaluated using the following 8 curated questions:
 | Explain the use of safety harness.           | PLACEHOLDER\_BASELINE\_7 | PLACEHOLDER\_HYBRID\_7 | hybrid          | No        |
 | Why are MSDS sheets important?               | PLACEHOLDER\_BASELINE\_8 | PLACEHOLDER\_HYBRID\_8 | hybrid          | No        |
 
-<<<<<<< HEAD
-> Replace placeholders with actual answers after running the API. The "Abstained" column reflects whether the system chose to abstain based on threshold.
-=======
-> Replace placeholders with actual answers after running the API. The "Abstained" column reflects whether the system chose to abstain based on the threshold.
->>>>>>> 013c3f854e8cb0989405ecb53808b4d552ab8eb3
-
----
 
 ## 6. Example API Response
 
@@ -184,13 +177,13 @@ The system was evaluated using the following 8 curated questions:
 
 ---
 
-<<<<<<< HEAD
+
 ## 8. Proof of Work (Optional Images)
 
 ## Project Screenshot
 
-![QA Safety Screenshot](screenshots/Screenshot 2025-09-22 at 10.47.53 PM.png)
-![Another screenshot](screenshots/Screenshot 2025-09-22 at 10.48.02 PM.png)
+![QA Safety Screenshot](screenshots/Screenshot1.png)
+![Another screenshot](screenshots/Screenshot2.png)
 
 
 ---
